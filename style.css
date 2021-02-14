@@ -1,0 +1,49 @@
+body {
+    background-image: url(https://external-preview.redd.it/cUCe_F_7-ev2_tIyibqHEQHPztAiWLC6kGu3Tst8wxc.jpg?auto=webp&s=f00ea86c9368b99b8aeed2dbfd23bedd22a24704); 
+    text-align: center;
+}
+#nacionalidade {
+    font-family: monospace, Arial;
+    font-size: 15px;
+    font-style: italic;
+    color: white
+    
+}
+.list {
+    border-radius: 20px;
+    padding: 10px 20px 5px 30px;
+    display: inline-block; text-align: left; 
+    color: white;
+    background-color: rgb(26, 25, 25);
+    font-family: monospace;
+}
+#descqualidade {
+    font-size: 19px;
+    color: white;
+}
+a:link {
+    color: white;
+}
+a:hover{
+    color:rgb(253, 253, 253);
+}
+a:visited {
+    color: rgb(205, 240, 6);
+}
+h5 {
+    color: white;
+}
+#Nome {
+    color: white;
+}
+#foto {
+    border: dotted 3px aquamarine;
+    border-radius:  50%
+}
+#links {
+    margin-right: 40px;
+}
+ul li.style-impar {
+    font-weight: bolder;
+    font-style: italic;
+}
